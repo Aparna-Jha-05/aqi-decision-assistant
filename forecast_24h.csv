@@ -1,0 +1,121 @@
+city,datetime_ist,hours_ahead,pm25_forecast,category,advice
+Bengaluru,2026-07-06 17:00:00+05:30,18,37.7,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-06 18:00:00+05:30,19,38.5,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-06 19:00:00+05:30,20,37.8,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-06 20:00:00+05:30,21,40.6,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-06 21:00:00+05:30,22,40.4,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-06 22:00:00+05:30,23,39.3,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-06 23:00:00+05:30,24,38.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 00:00:00+05:30,25,38.4,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 01:00:00+05:30,26,37.6,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 02:00:00+05:30,27,37.9,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 03:00:00+05:30,28,39.3,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 04:00:00+05:30,29,39.9,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 05:00:00+05:30,30,40.5,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 06:00:00+05:30,31,43.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 07:00:00+05:30,32,44.8,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 08:00:00+05:30,33,44.8,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 09:00:00+05:30,34,45.8,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 10:00:00+05:30,35,46.4,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 11:00:00+05:30,36,46.5,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 12:00:00+05:30,37,46.0,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 13:00:00+05:30,38,45.9,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 14:00:00+05:30,39,45.8,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 15:00:00+05:30,40,45.4,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Bengaluru,2026-07-07 16:00:00+05:30,41,45.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-06 17:00:00+05:30,18,37.0,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-06 18:00:00+05:30,19,38.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-06 19:00:00+05:30,20,43.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-06 20:00:00+05:30,21,46.3,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-06 21:00:00+05:30,22,46.3,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-06 22:00:00+05:30,23,46.5,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-06 23:00:00+05:30,24,45.7,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 00:00:00+05:30,25,44.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 01:00:00+05:30,26,43.5,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 02:00:00+05:30,27,43.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 03:00:00+05:30,28,43.5,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 04:00:00+05:30,29,44.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 05:00:00+05:30,30,46.3,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 06:00:00+05:30,31,49.3,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 07:00:00+05:30,32,52.6,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 08:00:00+05:30,33,53.4,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 09:00:00+05:30,34,52.6,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 10:00:00+05:30,35,53.0,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 11:00:00+05:30,36,52.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 12:00:00+05:30,37,50.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 13:00:00+05:30,38,50.4,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 14:00:00+05:30,39,50.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 15:00:00+05:30,40,50.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Delhi,2026-07-07 16:00:00+05:30,41,51.8,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-06 17:00:00+05:30,18,50.4,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-06 18:00:00+05:30,19,57.0,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-06 19:00:00+05:30,20,63.5,Moderate,"Reduce prolonged outdoor exertion if you have asthma, heart, or lung conditions."
+Jaipur,2026-07-06 20:00:00+05:30,21,66.0,Moderate,"Reduce prolonged outdoor exertion if you have asthma, heart, or lung conditions."
+Jaipur,2026-07-06 21:00:00+05:30,22,65.3,Moderate,"Reduce prolonged outdoor exertion if you have asthma, heart, or lung conditions."
+Jaipur,2026-07-06 22:00:00+05:30,23,64.1,Moderate,"Reduce prolonged outdoor exertion if you have asthma, heart, or lung conditions."
+Jaipur,2026-07-06 23:00:00+05:30,24,63.5,Moderate,"Reduce prolonged outdoor exertion if you have asthma, heart, or lung conditions."
+Jaipur,2026-07-07 00:00:00+05:30,25,62.2,Moderate,"Reduce prolonged outdoor exertion if you have asthma, heart, or lung conditions."
+Jaipur,2026-07-07 01:00:00+05:30,26,60.6,Moderate,"Reduce prolonged outdoor exertion if you have asthma, heart, or lung conditions."
+Jaipur,2026-07-07 02:00:00+05:30,27,59.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 03:00:00+05:30,28,54.7,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 04:00:00+05:30,29,52.9,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 05:00:00+05:30,30,51.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 06:00:00+05:30,31,50.6,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 07:00:00+05:30,32,50.6,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 08:00:00+05:30,33,50.3,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 09:00:00+05:30,34,50.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 10:00:00+05:30,35,50.0,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 11:00:00+05:30,36,49.6,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 12:00:00+05:30,37,49.4,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 13:00:00+05:30,38,49.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 14:00:00+05:30,39,49.2,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 15:00:00+05:30,40,49.3,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Jaipur,2026-07-07 16:00:00+05:30,41,50.1,Satisfactory,Generally safe. Sensitive individuals may notice minor discomfort on prolonged exertion.
+Kolkata,2026-07-06 17:00:00+05:30,56,21.7,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-06 18:00:00+05:30,57,22.0,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-06 19:00:00+05:30,58,21.9,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-06 20:00:00+05:30,59,21.5,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-06 21:00:00+05:30,60,21.0,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-06 22:00:00+05:30,61,20.8,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-06 23:00:00+05:30,62,20.7,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 00:00:00+05:30,63,20.7,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 01:00:00+05:30,64,20.6,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 02:00:00+05:30,65,20.6,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 03:00:00+05:30,66,20.7,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 04:00:00+05:30,67,20.8,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 05:00:00+05:30,68,21.0,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 06:00:00+05:30,69,21.1,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 07:00:00+05:30,70,21.3,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 08:00:00+05:30,71,21.4,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 09:00:00+05:30,72,21.4,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 10:00:00+05:30,73,21.5,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 11:00:00+05:30,74,21.5,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 12:00:00+05:30,75,21.5,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 13:00:00+05:30,76,21.6,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 14:00:00+05:30,77,21.6,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 15:00:00+05:30,78,21.6,Good,"Safe for all outdoor activity, including sensitive groups."
+Kolkata,2026-07-07 16:00:00+05:30,79,21.7,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-06 17:00:00+05:30,18,23.0,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-06 18:00:00+05:30,19,23.0,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-06 19:00:00+05:30,20,22.9,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-06 20:00:00+05:30,21,23.9,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-06 21:00:00+05:30,22,23.1,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-06 22:00:00+05:30,23,23.0,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-06 23:00:00+05:30,24,22.9,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 00:00:00+05:30,25,22.6,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 01:00:00+05:30,26,22.2,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 02:00:00+05:30,27,22.0,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 03:00:00+05:30,28,21.8,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 04:00:00+05:30,29,21.5,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 05:00:00+05:30,30,21.5,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 06:00:00+05:30,31,21.6,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 07:00:00+05:30,32,22.0,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 08:00:00+05:30,33,22.4,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 09:00:00+05:30,34,22.7,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 10:00:00+05:30,35,23.3,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 11:00:00+05:30,36,23.3,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 12:00:00+05:30,37,23.4,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 13:00:00+05:30,38,23.2,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 14:00:00+05:30,39,23.3,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 15:00:00+05:30,40,23.3,Good,"Safe for all outdoor activity, including sensitive groups."
+Mumbai,2026-07-07 16:00:00+05:30,41,23.3,Good,"Safe for all outdoor activity, including sensitive groups."
